@@ -1,0 +1,5 @@
+months = ['jan', 'feb', 'march', 'april']
+print 'first month is' , months[0]
+print 'first month is' , months[1]
+print 'first month is' , months[2]
+print 'first month is' , months[3]
